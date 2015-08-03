@@ -1,0 +1,21 @@
+Stateless vs Stateful sessions
+Selecting proper facts
+Inserting new facts
+Fusion (CPE), temporal reasoning (for events to happen after, between, etc...)
+Ordering rules with BPMN
+Claim validation example
+Stateless session example
+Batch Executor
+Domain Specific Languages (DSL)
+Production rule systems
+Pattern
+Rule engine
+Rule integration within Business Process
+Business Rule task
+Rule flow graph
+Sample claims process
+Sample Business process using Drools
+KIE
+Cross products
+Drools  Exercise
+ 
